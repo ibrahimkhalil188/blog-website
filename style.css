@@ -1,0 +1,48 @@
+body{
+    background-color: cornsilk;
+}
+#blog-title{
+    color:aqua
+}
+hr{
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border: 1px solid aqua;
+    height: 2px;
+    background-color: aqua;
+}
+h2{
+    color:aqua;
+    font-size: 28px;
+}
+#location-foder{
+    font-size: 36px;
+}
+a{
+    color:black;
+}
+div{
+    margin:5px ;
+    border: 1px solid gray;
+    padding:5px;
+}
+img{
+    
+    
+}
+#two-color-head{
+    color:black;
+}
+#museum{
+    border-radius:5px;
+}
+h3{
+    color:#171717;
+}
+#register{
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 20px;
+    background-color: aqua;
+}
